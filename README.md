@@ -1,12 +1,12 @@
 # Proyecto-clasificacion-y-conteo
 ## Clasificacion y conteo de frutos secos
 
-Elaborado como parte del proyecto final de fin de Master de Inteligencia artificial & Big Data
+
 
 ## Software - Recursos
-  Python
-  YOLO26 (ULTRALYTICS S.F.)
-  LabelImg
+  Python,
+  YOLO26 (ULTRALYTICS S.F.),
+  LabelImg,
   Google Colab
 
 ## Detalles
